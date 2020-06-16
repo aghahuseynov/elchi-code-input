@@ -1,0 +1,15 @@
+{
+  "name": "elchi-code-input",
+  "version": "1.0.0",
+  "description": "Elchi Code Input for verification",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Agha Huseynov",
+  "license": "MIT",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.51.1"
+  },
+  "dependencies": {}
+}
